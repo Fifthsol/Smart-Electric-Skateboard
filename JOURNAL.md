@@ -134,3 +134,36 @@ However, I fixed them and here is my final rewire, nothing too different from th
 <img src = "https://cdn.hackclub.com/019f1ba8-6494-78ec-aa2a-8b537365bdf5/Smart%20Skateboard%20Wiring%20Diagram.drawio(1).png">
 
 A little embarrassed how long this took cause its my first time using Draw.io (I was also very distracted by the World Cup my family was watching in the background) but hopefully tommorow I'll be making the circuit board. Peace!
+
+## 7/1/26 - 4 Hours
+
+Alrighty, today I turned my wiring diagrams into an actual, real schematic!
+
+Here's the final product before I got into the process that went into it and what I had to change and stuff :)
+
+<img src = "https://cdn.hackclub.com/019f1fa6-cb4b-7150-bc92-e3b2824ae3d5/schematic.png">
+
+Sorry if the image is super low res I dont know how to properly export it from KiCAD.
+
+Anyways, most of my time was basically spent rethinking the way that I'm connecting all these modules to the arduino to finalize the wiring.
+
+I also did a very aggressive recheck of each place where resistors are needed and all of their nodes.
+
+
+When designing this board I had to think about how I would integrate this circuitboard with the physical XT90 connector system that you can see in the ohter wiring diagram. I realized that I could basically take the wires of the ESC, UBEC, step down, and headlights, and screw them into wire terminals on the board which made things extremely easy to work with.
+
+From there it was just a lot a lot of checking and reviewing part diagrams for modules (I'm so scared of accidently using a component that can't handle 5V, but like 99% of arduino modules take 3.3V-5V so I really shouldn't be worrying)
+
+The next part was turning it into a PCB but I think I'm going to call it a day because I already chose all of the footprints (they're mostly through hole and screw terminals so assembly is extremely easy) so I'm going to delay it to tommorow. I am tired!!!!
+
+I'm also going to do a final wiring/compatibility check before finalizing the PCB and figuring out the layout.
+
+Then I need to worry about the case ;-; I'm really tied but I know I can put the work into finishing this design soon :3
+
+Oh yeah, I used used screw terminals for the GPS and SD logger because I want to ziptie them to a specific part of the case (so I can easily take out the SD and put the GPS antenna in an optimal position) instead of having them tied to the PCB.
+
+I hope to finish this PCB or a rough form of it tmmrw and get the case done as well so I can send in my S/X tier pitch. Then I'm going to order all of the parts and do a test wire with each module individually to ensure they all function and that I know how to program them.
+
+From there I'll finalize my case design and tweak the PCB again to get my desired build which hopefully will be quick :))))))
+
+I think I should also do a quick macropad to make sure I can at least bring *something* to Outpost if I can't finish in time (I think that's how it works?).
