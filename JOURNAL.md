@@ -123,3 +123,14 @@ I'm probably going to cut the keypad and the toggle switch btw, they seemed kind
 
 Logging off!
 
+# 6/30/26 - 3 Hours
+
+## Wiring Reformatting
+
+Ok so... I may have messed up the resistor values but I managed to fix them by looking at a lot of datasheets for MOFSET gates and documentation on how I should connnect an Arduino Nano to an ESP32 (you have to use them because arduino outputs 5v and esp32 only takes 3.3)
+
+However, I fixed them and here is my final rewire, nothing too different from the old sheet but I'm quite happy about how clean this one looks :)
+
+<img src = "https://cdn.hackclub.com/019f1ba8-6494-78ec-aa2a-8b537365bdf5/Smart%20Skateboard%20Wiring%20Diagram.drawio(1).png">
+
+A little embarrassed how long this took cause its my first time using Draw.io (I was also very distracted by the World Cup my family was watching in the background) but hopefully tommorow I'll be making the circuit board. Peace!
