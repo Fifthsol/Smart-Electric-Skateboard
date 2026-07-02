@@ -168,3 +168,43 @@ I hope to finish this PCB or a rough form of it tmmrw and get the case done as w
 From there I'll finalize my case design and tweak the PCB again to get my desired build which hopefully will be quick :))))))
 
 I think I should also do a quick macropad to make sure I can at least bring *something* to Outpost if I can't finish in time (I think that's how it works?)
+
+## 7/2/26 - 5 Hours
+
+Currently contemplating my life choices because my motor won't get here by the time I have to submit...
+
+Welp I finished my PCB and CAD at least
+
+
+Heres what my mounting solution is going to be for the pcb
+
+<img src="https://cdn.hackclub.com/019f2504-a272-7190-97ed-579479bf9502/Screenshot%202026-07-02%20184754.png">
+
+Essentially I'm going to countersink M5 holes into the skateboard deck and 3D print spacers so I can put my PCB on it while velcroing a bunch of other components down to the main body of the deck (basically everything that isn't on the PCB that I don't want to be locked in placed)
+
+
+To protect this I also modeld a shield which will be velcroed onto the main deck. Seen here:
+
+<img src = "https://cdn.hackclub.com/019f2507-65c2-7137-9ee7-673963ea3eee/Screenshot%202026-07-02%20185056.png">
+
+I cut out holes to glue on the XT90S spark key hole which I found a free 3D model for on thingiverse: 
+https://www.thingiverse.com/thing:2323422/comments 
+
+basically you can just slot it into the holes and superglue down the edges which is dandy :)
+
+
+<img src = "https://cdn.hackclub.com/019f2508-aadb-7b29-8780-0e3aca4f722f/Screenshot%202026-07-02%20185056.png">
+
+Additionally I finally figured out how to finalize my PCB
+
+<img src = "https://cdn.hackclub.com/019f2509-905f-7cde-beeb-4838f69e2123/Screenshot%202026-07-02%20185322.png">
+
+Isn't that a beauty. You can find the gerber zip in the KiCad folder of this repo. :)
+
+
+That's pretty much the project design finished. Thanks for your time and I hope to update this journal againwhen I finish building the super duper awesome board.
+
+
+I don't know if my motor will come in time for the 7/7 deadline so I might not be done by then and wow PCB shipping is expensive ;-; so I hope to at least have a working development board for this project before the deadline.
+
+
