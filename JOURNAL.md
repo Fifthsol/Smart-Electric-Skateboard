@@ -153,6 +153,7 @@ I also did a very aggressive recheck of each place where resistors are needed an
 When designing this board I had to think about how I would integrate this circuitboard with the physical XT90 connector system that you can see in the ohter wiring diagram. I realized that I could basically take the wires of the ESC, UBEC, step down, and headlights, and screw them into wire terminals on the board which made things extremely easy to work with.
 
 From there it was just a lot a lot of checking and reviewing part diagrams for modules (I'm so scared of accidently using a component that can't handle 5V, but like 99% of arduino modules take 3.3V-5V so I really shouldn't be worrying)
+I also made my own Arduino Nano and ESP32 schematics from two 15x1 connector schematics so I could ensure each pin was correctly labeled. 
 
 The next part was turning it into a PCB but I think I'm going to call it a day because I already chose all of the footprints (they're mostly through hole and screw terminals so assembly is extremely easy) so I'm going to delay it to tommorow. I am tired!!!!
 
@@ -166,4 +167,4 @@ I hope to finish this PCB or a rough form of it tmmrw and get the case done as w
 
 From there I'll finalize my case design and tweak the PCB again to get my desired build which hopefully will be quick :))))))
 
-I think I should also do a quick macropad to make sure I can at least bring *something* to Outpost if I can't finish in time (I think that's how it works?).
+I think I should also do a quick macropad to make sure I can at least bring *something* to Outpost if I can't finish in time (I think that's how it works?)
