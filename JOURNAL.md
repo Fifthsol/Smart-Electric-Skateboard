@@ -208,3 +208,6 @@ That's pretty much the project design finished. Thanks for your time and I hope 
 I don't know if my motor will come in time for the 7/7 deadline so I might not be done by then and wow PCB shipping is expensive ;-; so I hope to at least have a working development board for this project before the deadline.
 
 
+I would send a more polished BOM but realistically I have no clue on what I'm going to have done before the deadline for Outpost so I'll post that update when we cross that mountain (or hill? but it feels more like a mountain).
+
+Gahaha I need to type for one more minute before I can post a devlog lol :() I'm staring this hackatime timer down very intensely
