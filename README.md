@@ -1,5 +1,9 @@
 # Smart-Electric-Skateboard
 
+
+FIRMWARE IS HUMAN REVIEWED, CLAUDE WRITTEN 
+WILL REWRITE BEFORE CREATING FINAL VERSION AND TESTING WITH REAL HARDWARE, DON'T USE FIRMWARE YET.
+
 This is my PCB and CAD design for a smart electric skateboard, I designed it for the most possible modularity and to be as easily assembled as possible
 
 Key features:
