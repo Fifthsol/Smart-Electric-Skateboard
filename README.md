@@ -1,4 +1,4 @@
-# Smart Electric-Skateboard
+# Smart Electric Skateboard
 
 > **FIRMWARE IS HUMAN REVIEWED, CLAUDE WRITTEN**
 > WILL REWRITE BEFORE CREATING FINAL VERSION AND TESTING WITH REAL HARDWARE, DON'T USE FIRMWARE YET.
@@ -47,7 +47,7 @@ See full assembly in the Onshape link below!
 
 ## CAD
 
-https://cad.onshape.com/documents/cc961e82541e14a55eb3a3aa/w/93f68d3bf484e10ac8913aa9/e/0b85ebaf63d54804817c31e9?renderMode=0&uiState=6a4718eb525d8b8d88a0e782 - SOURCE FILES, YOU CAN EXPORT
+https://cad.onshape.com/documents/cc961e82541e14a55eb3a3aa/w/93f68d3bf484e10ac8913aa9/e/999f5a267f0d529136fe4578?renderMode=0&uiState=6a472d69a55f8813fe6f1d74 - SOURCE FILES, YOU CAN EXPORT, FOR SOME REASON ONSHAPE DOESN'T LET ME LET PUBLIC MAKE COPIES, LMK IF U NEED MORE FILES
 
 I also added the files for the XT90S holder and key I got from thingiverse but you can also get them from the creators' thingiverse links:
 
