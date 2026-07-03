@@ -1,4 +1,4 @@
-# Smart-Electric-Skateboard
+# Smart Electric-Skateboard
 
 
 FIRMWARE IS HUMAN REVIEWED, CLAUDE WRITTEN 
@@ -42,5 +42,6 @@ You can mount the PCB using countersunk M5 bolts drilled into the main deck of y
 <img src="https://cdn.hackclub.com/019f2504-a272-7190-97ed-579479bf9502/Screenshot%202026-07-02%20184754.png">
 
 <img src = "https://cdn.hackclub.com/019f1fa6-cb4b-7150-bc92-e3b2824ae3d5/schematic.png">
+
 
 https://cad.onshape.com/documents/cc961e82541e14a55eb3a3aa/w/93f68d3bf484e10ac8913aa9/e/0b85ebaf63d54804817c31e9?renderMode=0&uiState=6a4718eb525d8b8d88a0e782
