@@ -29,13 +29,14 @@ You can mount the PCB using countersunk M5 bolts drilled into the main deck of y
 
 <img src = "https://cdn.hackclub.com/019f2509-905f-7cde-beeb-4838f69e2123/Screenshot%202026-07-02%20185322.png">
 
+<img src = "https://cdn.hackclub.com/019f1ba8-6494-78ec-aa2a-8b537365bdf5/Smart%20Skateboard%20Wiring%20Diagram.drawio(1).png">
 
 <img src = "https://cdn.hackclub.com/019f2508-aadb-7b29-8780-0e3aca4f722f/Screenshot%202026-07-02%20185056.png">
 
-<img src = "https://cdn.hackclub.com/019f2509-905f-7cde-beeb-4838f69e2123/Screenshot%202026-07-02%20185322.png">
 
 
 <img src="https://cdn.hackclub.com/019f2504-a272-7190-97ed-579479bf9502/Screenshot%202026-07-02%20184754.png">
 
 <img src = "https://cdn.hackclub.com/019f1fa6-cb4b-7150-bc92-e3b2824ae3d5/schematic.png">
 
+https://cad.onshape.com/documents/cc961e82541e14a55eb3a3aa/w/93f68d3bf484e10ac8913aa9/e/0b85ebaf63d54804817c31e9?renderMode=0&uiState=6a4718eb525d8b8d88a0e782
