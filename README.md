@@ -47,7 +47,7 @@ See full assembly in the Onshape link below!
 
 ## CAD
 
-https://cad.onshape.com/documents/cc961e82541e14a55eb3a3aa/w/93f68d3bf484e10ac8913aa9/e/999f5a267f0d529136fe4578?renderMode=0&uiState=6a472d69a55f8813fe6f1d74 - SOURCE FILES, YOU CAN EXPORT, FOR SOME REASON ONSHAPE DOESN'T LET ME LET PUBLIC MAKE COPIES, LMK IF U NEED MORE FILES
+[https://cad.onshape.com/documents/cc961e82541e14a55eb3a3aa/w/93f68d3bf484e10ac8913aa9/e/999f5a267f0d529136fe4578?renderMode=0&uiState=6a472d69a55f8813fe6f1d74 ](https://cad.onshape.com/documents/cc961e82541e14a55eb3a3aa/w/93f68d3bf484e10ac8913aa9/e/999f5a267f0d529136fe4578?renderMode=0&uiState=6a472d69a55f8813fe6f1d74) - SOURCE FILES, YOU CAN EXPORT, FOR SOME REASON ONSHAPE DOESN'T LET ME LET PUBLIC MAKE COPIES, LMK IF U NEED MORE FILES
 
 I also added the files for the XT90S holder and key I got from thingiverse but you can also get them from the creators' thingiverse links:
 
