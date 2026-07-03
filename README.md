@@ -57,3 +57,19 @@ https://www.thingiverse.com/thing:3755061 - DSC101
 Additionally I'd like to credit Linny for the wonderful spark key tutorial:
 
 https://forum.esk8.news/t/how-to-make-a-xt90-loop-key/17664 
+
+## Hardware Recommendations
+
+You can buy any deck you want as long as it has standard skateboard truck mounting holes (don't forget grip tape, I don't want anyone to get a concussion falling off a skateboard at 30mph)
+
+All of the following are compatible with all of the parts:
+
+Here's the kit I recommend: https://diyelectricskateboard.com/products/single-motor-mechanical-kit
+
+Here's the motor I recommend: https://flipsky.net/products/6354-motor?variant=39584732020923 *make sure you buy the 8mm long shaft version, the pinion in the kit is 8mm*
+
+Here's the ESC I recommend: https://www.amazon.com/Flipsky-Electric-Controller-Skateboard-FSESC4-20/dp/B08725X8CT?crid=3SIDHWG364BX4&dib=eyJ2IjoiMSJ9.IqoH6igNS5uoqaSPi0U1BedvgWXTG2MmrTiz3IbeygggEGuA5hgPAAYX8bJbXIFoMB16bEaBD6aKPqdNQPnGbr8ioB8Tdrru8ZNjyuO4UhzOalCiTvk_JVJ_Lxj0zglkbMqWADbCturR1eBblw_qSCXh0UQposV203Uq_D-tWq-mQEDJuYN1ny7OWe27NWZRroTPX34m-Ez5RlyCnL1I8tUvgz6dJJQ4FC1nw_zgHt5CUaAWrCW-psdJZAHDuAjBaQKz6eAdM194SUU266oIVdS7h7u9ZzuQsU9zRhYBSks.9GCl_Hz-my6_k1dOwJ4J5hVFeGhrBCk26F7K8-cv7QA&dib_tag=se&keywords=flipsky+esc&qid=1783028494&sprefix=flipsky+es%2Caps%2C216&sr=8-10
+
+
+
+
