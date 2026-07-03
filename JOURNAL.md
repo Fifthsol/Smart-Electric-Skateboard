@@ -213,3 +213,20 @@ I would send a more polished BOM but realistically I have no clue on what I'm go
 
 Gahaha I need to type for one more minute before I can post a devlog lol :() I'm staring this hackatime timer down very intensely
 
+# 7/2/26 - 3 Hours
+
+Another 3 hours hahahaa.......
+
+I found out that my PCB would fry the ESP32 because I made the nets for the 3v3 and 5v
+merged by accident.
+
+This was an easy fix though I just seperated the nets to use both the upper and lower copper layers so here is the finalized product:
+
+<img src = "https://cdn.hackclub.com/019f25f9-34dd-704a-a63d-0e10b274460a/Final%20PCB.png">
+
+What a beauty amiright.
+
+I also added a bunch of stuff to the BOM, made my orders, and got ready to make my project for rereview.
+
+Thanks for reading :).
+
